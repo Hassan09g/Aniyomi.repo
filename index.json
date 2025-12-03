@@ -1,6 +1,13 @@
 {
-  "name": "My AniYomi Repo",
-  "url": "https://raw.githubusercontent.com/USERNAME/REPO-NAME/master/",
+  "name": "Hassan AniYomi Repo",
+  "url": "https://raw.githubusercontent.com/Hassan09g/Anyomi.repo/master/",
   "version": 1,
-  "extensions": []
+  "extensions": [
+    {
+      "name": "My Source",
+      "pkg": "mysource.pkg",
+      "apk": "HDO_Box_v2.0.20_Fix_AdFree_[TraidMod.Com].apk",
+      "version": 1
+    }
+  ]
 }
